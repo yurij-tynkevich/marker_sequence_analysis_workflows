@@ -2,6 +2,10 @@
 
 This repository contains three lightweight analysis scripts used as reproducibility workflows for targeted marker-sequence analyses. They are intended to document and reproduce the computational procedures used in research projects rather than to serve as standalone software packages.
 
+[![GitHub release](https://img.shields.io/github/v/release/yurij-tynkevich/marker_sequence_analysis_workflows?display_name=tag)](https://github.com/yurij-tynkevich/marker_sequence_analysis_workflows/releases/latest)
+[![License: MIT](https://img.shields.io/github/license/yurij-tynkevich/marker_sequence_analysis_workflows)](https://github.com/yurij-tynkevich/marker_sequence_analysis_workflows/blob/main/LICENSE)
+[![DOI](https://zenodo.org/badge/1333468152.svg)](https://doi.org/10.5281/zenodo.21924433)
+
 ## Scripts
 
 ### `multiplex_amplicon_pipeline.py`
