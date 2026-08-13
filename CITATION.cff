@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use marker_sequence_analysis_workflows, please cite this software and the associated study."
+title: "target-assembler"
+type: software
+authors:
+  - family-names: Tynkevich
+    given-names: Yurij
+version: 1.0.0
+date-released: 2026-08-13
+license: MIT
+repository-code: "https://github.com/yurij-tynkevich/marker_sequence_analysis_workflows"
+keywords:
+  - bioinformatics
+  - repeated sequences
+  - target regions
+  - amplicon sequencing
